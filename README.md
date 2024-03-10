@@ -1,4 +1,4 @@
-# Big Data Analysis Project: Eminem
+# Big Data Analysis Project;
 This repository contains the code and data for a comprehensive big data analysis project focused on Eminem. The project leverages various data sources, including Twitter, Spotify, and YouTube, to analyze Eminem's presence on social media, his music catalog, and audience engagement.
 
 - [Eminem - Wikipedia](https://en.wikipedia.org/wiki/Eminem): Visit Eminem's Wikipedia page for more information about his life and career.

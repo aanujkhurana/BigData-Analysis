@@ -11,9 +11,9 @@ This repository contains the code and data for a comprehensive big data analysis
 - [Tools and Technologies](#tools-and-technologies)
 - [Setup](#setup)
 - [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
 - [Key Findings](#Key-Findings)
 - [Graph Images](#Graph-Images)
+- [Contributing](#contributing)
 
 ## Overview
 
@@ -58,12 +58,6 @@ The repository is organized as follows:
 - **RStudio/**: Contains R Markdown notebooks documenting the analysis process.
 - **GraphImages/**: Contains the Graph PNG Images.
 
-## Contributing
-
-Contributions to this project are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
-
-
------------------------------------------------------------------------------------------------
 ## Key Findings
 
 1. **Eminem's Music Career:**
@@ -121,3 +115,12 @@ The social media analytics conducted for Eminem provide valuable insights into h
     <img src="/GraphImages/img2.png" width="400px"</img>
 </div>
 
+
+-----------------------------------------------------------------------------------------------
+
+## Contributing
+
+Contributions to this project are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
+
+
+-----------------------------------------------------------------------------------------------

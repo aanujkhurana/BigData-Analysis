@@ -1,0 +1,19 @@
+collect.twitter
+Fri Mar 31 15:27:19 2023
+2023-03-31 05:27:19 UTC
+
+searchTerm = #Eminem
+searchType = recent
+numTweets = 1500
+lang = en
+includeRetweets = TRUE
+writeToFile = TRUE
+verbose = TRUE
+
+tweet        | status_id           | created            
+--------------------------------------------------------
+Latest Obs   | 1641671920985702401 | 2023-03-31 05:21:01
+Earliest Obs | 1638283190107361312 | 2023-03-21 20:55:25
+
+
+Fri Mar 31 05:27:40 2023

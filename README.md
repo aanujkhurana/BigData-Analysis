@@ -100,7 +100,7 @@ Contributions to this project are welcome! If you have any ideas, suggestions, o
 
 The social media analytics conducted for Eminem provide valuable insights into his music career, public reception, and online engagement. By leveraging diverse data sources and analytical techniques, we gain a comprehensive understanding of Eminem's influence and impact in the music industry. This project serves as a foundation for future research and exploration in the field of social media analytics.
 
-## Screenshots
-
+## Graph Images
+- ![Dashboard 1](/GraphImages/img1.png)
 
 

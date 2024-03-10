@@ -107,10 +107,10 @@ The social media analytics conducted for Eminem provide valuable insights into h
     <img src="/GraphImages/img14.png" width="400px"</img>
     <img src="/GraphImages/img1.png" width="400px"</img>
     <img src="/GraphImages/img4.png" width="400px"</img>
-    <img src="/GraphImages/img5.png" width="400px"</img>
     <img src="/GraphImages/img6.png" width="400px"</img>
-    <img src="/GraphImages/img7.png" width="400px"</img>
     <img src="/GraphImages/img8.png" width="400px"</img>
+    <img src="/GraphImages/img5.png" width="400px"</img>
+    <img src="/GraphImages/img7.png" width="400px"</img>
     <img src="/GraphImages/img15.png" width="400px"</img>
     <img src="/GraphImages/img16.png" width="400px"</img>
     <img src="/GraphImages/img12.png" width="400px"</img>

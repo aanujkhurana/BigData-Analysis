@@ -12,7 +12,8 @@ This repository contains the code and data for a comprehensive big data analysis
 - [Setup](#setup)
 - [Directory Structure](#directory-structure)
 - [Contributing](#contributing)
-- [License](#license)
+- [Key Findings](#Key-Findings)
+- [Graph Images](#Graph-Images)
 
 ## Overview
 
@@ -102,21 +103,21 @@ The social media analytics conducted for Eminem provide valuable insights into h
 
 ## Graph Images
 <div align="Left">
-    <img src="/GraphImages/img3.png" width="600px"</img>
-    <img src="/GraphImages/img2.png" width="600px"</img>
-    <img src="/GraphImages/img1.png" width="600px"</img>
-    <img src="/GraphImages/img4.png" width="600px"</img>
-    <img src="/GraphImages/img5.png" width="600px"</img>
-    <img src="/GraphImages/img6.png" width="600px"</img>
-    <img src="/GraphImages/img7.png" width="600px"</img>
-    <img src="/GraphImages/img8.png" width="600px"</img>
-    <img src="/GraphImages/img9.png" width="600px"</img>
-    <img src="/GraphImages/img10.png" width="600px"</img>
-    <img src="/GraphImages/img12.png" width="600px"</img>
-    <img src="/GraphImages/img11.png" width="600px"</img>
-    <img src="/GraphImages/img13.png" width="600px"</img>
-    <img src="/GraphImages/img14.png" width="600px"</img>
-    <img src="/GraphImages/img15.png" width="600px"</img>
-    <img src="/GraphImages/img16.png" width="600px"</img>
+    <img src="/GraphImages/img3.png" width="400px"</img>
+    <img src="/GraphImages/img2.png" width="400px"</img>
+    <img src="/GraphImages/img1.png" width="400px"</img>
+    <img src="/GraphImages/img4.png" width="400px"</img>
+    <img src="/GraphImages/img5.png" width="400px"</img>
+    <img src="/GraphImages/img6.png" width="400px"</img>
+    <img src="/GraphImages/img7.png" width="400px"</img>
+    <img src="/GraphImages/img8.png" width="400px"</img>
+    <img src="/GraphImages/img9.png" width="400px"</img>
+    <img src="/GraphImages/img10.png" width="400px"</img>
+    <img src="/GraphImages/img12.png" width="400px"</img>
+    <img src="/GraphImages/img11.png" width="400px"</img>
+    <img src="/GraphImages/img13.png" width="400px"</img>
+    <img src="/GraphImages/img14.png" width="400px"</img>
+    <img src="/GraphImages/img15.png" width="400px"</img>
+    <img src="/GraphImages/img16.png" width="400px"</img>
 </div>
 
